@@ -25,3 +25,5 @@ position = Vector2( 800, 500 )
 [node name="Enemy_Container" type="Node2D" parent="."]
 
 [node name="Enemy" parent="Enemy_Container" instance=ExtResource( 5 )]
+
+[node name="UI" type="CanvasLayer" parent="."]
